@@ -29,7 +29,7 @@ docker-compose up --build
 Frontend: http://localhost:3000
 Backend: http://localhost:4000
 
-🧠 What I Learned
+### 🧠 What I Learned
 Creating optimized Dockerfiles for frontend/backend
 Fixing React routing issues in Nginx
 Handling MongoDB auth and Docker volume persistence
