@@ -21,7 +21,6 @@ This is a fullstack web application containerized using Docker and orchestrated 
 
 ### ⚙️ Run Locally
 
-```bash
 git clone https://github.com/your-username/your-repo.git
 cd your-repo
 docker-compose up --build
